@@ -16,5 +16,5 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 ## E-Learning and Gamification
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
-|      Prototype of App/Web Tool for Learning about ML/Politics/... [with Gamification Elements]    | Master Thesis | Available    |
+|      Prototype of App/Web Tool for Learning about ML/Politics/... [with Gamification Elements]    | Bachelor/Master Thesis | Available    |
 |     Prototype of App/Web Tool for Learning Languages by Chatting with a Language Model fine-tuned on Teaching Metric    | Bachelor/Master Thesis | Available    |
