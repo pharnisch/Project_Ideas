@@ -10,8 +10,9 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 |     Highlighting Information in Dialogue Systems via Audio Signals for Visually Impaired People     | Bachelor Thesis | Available    |
 |     Simple Language for Cognitively Impaired People: A Comparison of Approaches     | Bachelor/Master Thesis | Available    |
 |     Making PROM Data Accessible: Information Extraction on Patient-Reported Outcome Measures     | Bachelor/Master Thesis | Available    |
-<!-- |     Making PROM Data Accessible: Implementing a Tool for the Visualization of Extracted Data from Patient-Reported Outcome Measures     | Bachelor Thesis | Available    | -->
 | Designing a Multi-modal Sign-language-enabled Dialogue System | Master Thesis | Available    |
+
+<!-- |     Making PROM Data Accessible: Implementing a Tool for the Visualization of Extracted Data from Patient-Reported Outcome Measures     | Bachelor Thesis | Available    | -->
 
 ## E-Learning and Gamification
 | Title/Topic | Scope         | Availability |
