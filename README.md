@@ -30,3 +30,8 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
 | Experiments on Self-growing Artificial Neural Networks/Neuronal Plasticity in ANNs | Master Thesis | Available    |
+
+## AI for Media Creation
+| Title/Topic | Scope         | Availability |
+|-------------|---------------|--------------|
+| Fine-tuning a Large Pre-trained LM on Creative Dialogues (like Pen and Paper or Improvisational Theatre) | Bachelor/Master Thesis | Available    |
