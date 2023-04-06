@@ -1,4 +1,4 @@
-# Project_Ideas
+# Project Ideas
 Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact topic can also be discussed and may be adjusted for a smaller or bigger scope. You are also free to suggest your own ideas.
 
 
