@@ -6,10 +6,10 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
 |~~Enhancing Natural Language Understanding in Healthcare Dialogue Systems: Leveraging Large Language Models for Generating Training Examples~~ | Bachelor/Master Thesis | Z. H.   |
+|~~Generating Answer Texts for an Adaptive Dialogue System by Fine-Tuning a LLM~~ | Bachelor Thesis | X. W. |
 | Finding Suitable Intents and Slots for the NLU of the MIA-PROM Questionnaire Dialogue System | Bachelor Thesis | Available    |
 | Comparison of Approaches for Multilinguality in NLU of a Dialogue System in the Health Domain | Bachelor/Master Thesis | Available    |
 | Comparison of Approaches for Multilinguality in NLG of a Dialogue System in the Health Domain | Bachelor/Master Thesis | Available    |
-| Generating Answer Texts for an Adaptive Dialogue System by Fine-Tuning a LLM  | Bachelor/Master Thesis | Available    |
 | Finding Suitable User-Centered Metrics for the Evaluation of Adaptive and Multimodal Dialogue Systems | Bachelor/Master Thesis | Available    |
 |     Highlighting Information in Dialogue Systems via Audio Signals for Visually Impaired People     | Bachelor Thesis | Available    |
 |     Simple Language for Cognitively Impaired People: A Comparison of Approaches     | Bachelor/Master Thesis | Available    |
