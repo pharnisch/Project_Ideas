@@ -15,6 +15,7 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 |     Simple Language for Cognitively Impaired People: A Comparison of Approaches     | Bachelor/Master Thesis | Available    |
 |     Making PROM Data Accessible: Information Extraction on Patient-Reported Outcome Measures     | Bachelor | Available    |
 | Designing a Multi-modal Sign-language-enabled Dialogue System | Bachelor/Master Thesis | Available    |
+| Translating Language to Easy Language: Fine-tune Transformer vs Prompt instructive LLM | Bachelor/Master Thesis | Available    |
 
 <!-- |     Making PROM Data Accessible: Implementing a Tool for the Visualization of Extracted Data from Patient-Reported Outcome Measures     | Bachelor Thesis | Available    | -->
 
