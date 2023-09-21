@@ -22,7 +22,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 ## E-Learning and Gamification
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
-|     ~~Visual Learning Tool with Gamification for Memorization and Recognition of Guitar Chords~~ | Bachelor Thesis | M. S.    |
+|~~Visual Learning Tool with Gamification for Memorization and Recognition of Guitar Chords~~ | Bachelor Thesis | M. S.    |
 |      Prototype of App/Web Tool for Learning about ML/Politics/... [with Gamification Elements]    | Bachelor/Master Thesis | Available    |
 |     Prototype of App/Web Tool for Learning Languages by Chatting with a Language Model fine-tuned on different Teaching Metrics    | Bachelor/Master Thesis | Available    |
 
