@@ -1,12 +1,12 @@
 # Bachelor and Master Thesis Topics
-Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact topic can also be discussed and may be adjusted for a smaller or bigger scope. You are also free to suggest your own ideas.
+Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the exact topic can also be discussed and may be adjusted for a smaller or bigger scope. You are also free to suggest your own ideas.
 
 
 ## Adaptive Dialogue Systems for the Health Domain
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
 |~~Enhancing Natural Language Understanding in Healthcare Dialogue Systems: Leveraging Large Language Models for Generating Training Examples~~ | Master Thesis | Z. H.   |
-|~~Generating Answer Texts for an Adaptive Dialogue System by Fine-Tuning a LLM~~ | Bachelor Thesis | X. W. |
+|~~Prompting a LLM for NLG of a Dialogue System Handling Health-related PROM Questionnaire Answering~~ | Bachelor Thesis | X. W. |
 | Finding Suitable Intents and Slots for the NLU of the MIA-PROM Questionnaire Dialogue System | Bachelor Thesis | Available    |
 | Comparison of Approaches for Multilinguality in NLU of a Dialogue System in the Health Domain | Bachelor/Master Thesis | Available    |
 | Comparison of Approaches for Multilinguality in NLG of a Dialogue System in the Health Domain | Bachelor/Master Thesis | Available    |
@@ -22,6 +22,7 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 ## E-Learning and Gamification
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
+|     Visual Learning Tool with Gamification for Memorization and Recognition of Guitar Chords | Bachelor Thesis | M. S.    |
 |      Prototype of App/Web Tool for Learning about ML/Politics/... [with Gamification Elements]    | Bachelor/Master Thesis | Available    |
 |     Prototype of App/Web Tool for Learning Languages by Chatting with a Language Model fine-tuned on different Teaching Metrics    | Bachelor/Master Thesis | Available    |
 
@@ -37,7 +38,8 @@ Ideas for Bachelor or Master Thesis. As these are only rough ideas, the exact to
 |-------------|---------------|--------------|
 | Experiments on Self-growing Artificial Neural Networks/Neuronal Plasticity in ANNs | Master Thesis | Available    |
 
-## AI for Media Creation
+## AI for (Interactive) Media Creation
 | Title/Topic | Scope         | Availability |
 |-------------|---------------|--------------|
 | Fine-tuning a Large Pre-trained LM on Creative Dialogues (like Pen and Paper or Improvisational Theatre) | Bachelor Thesis | Available    |
+
