@@ -14,34 +14,10 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Comparison of Approaches for Multilinguality in NLG of a Dialogue System in the Health Domain | Bachelor/Master Thesis | Available    |
 | Finding Suitable User-Centered Metrics for the Evaluation of Adaptive and Multimodal Dialogue Systems | Bachelor/Master Thesis | Available    |
 |     Highlighting Information in Dialogue Systems via Audio Signals for Visually Impaired People     | Bachelor Thesis | Available    |
-|     Simple Language for Cognitively Impaired People: A Comparison of Approaches     | Bachelor/Master Thesis | Available    |
-|     Making PROM Data Accessible: Information Extraction on Patient-Reported Outcome Measures     | Bachelor | Available    |
-| Designing a Multi-modal Sign-language-enabled Dialogue System | Bachelor/Master Thesis | Available    |
+| Matching Sign-language to Answers of Health Survey Questions | Bachelor/Master Thesis | Available    |
+|     Simple Language for Cognitively Impaired People: A Comparison of Approaches     | Bachelor Thesis | Available    |
 | Translating Language to Easy Language: Fine-tune Transformer vs Prompt instructive LLM | Bachelor/Master Thesis | Available    |
 
 <!-- |     Making PROM Data Accessible: Implementing a Tool for the Visualization of Extracted Data from Patient-Reported Outcome Measures     | Bachelor Thesis | Available    | -->
 
-## E-Learning and Gamification
-| Title/Topic | Scope         | Availability |
-|-------------|---------------|--------------|
-|~~Visual Learning Tool with Gamification for Memorization and Recognition of Guitar Chords~~ | Bachelor Thesis | M. S.    |
-|      Prototype of App/Web Tool for Learning about ML/Politics/... [with Gamification Elements]    | Bachelor/Master Thesis | Available    |
-|     Prototype of App/Web Tool for Learning Languages by Chatting with a Language Model fine-tuned on different Teaching Metrics    | Bachelor/Master Thesis | Available    |
-
-
-## General NLP Topics
-| Title/Topic | Scope         | Availability |
-|-------------|---------------|--------------|
-| Investigating the Effect of Different Anonymization Approaches on LM Fine-Tuning for Down-Stream Tasks  | Bachelor/Master Thesis | Available    |
-<!-- |  | Master Thesis | Available    | -->
-
-## General AI/Computational Neuroscience
-| Title/Topic | Scope         | Availability |
-|-------------|---------------|--------------|
-| Experiments on Self-growing Artificial Neural Networks/Neuronal Plasticity in ANNs | Master Thesis | Available    |
-
-## AI for (Interactive) Media Creation
-| Title/Topic | Scope         | Availability |
-|-------------|---------------|--------------|
-| Fine-tuning a Large Pre-trained LM on Creative Dialogues (like Pen and Paper or Improvisational Theatre) | Bachelor Thesis | Available    |
 
