@@ -14,4 +14,9 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 
 <!-- |     Making PROM Data Accessible: Implementing a Tool for the Visualization of Extracted Data from Patient-Reported Outcome Measures     | Bachelor Thesis | Available    | -->
 
+## Other Topics
+| Title/Topic | Scope         | Availability |
+|-------------|---------------|--------------|
+| (Language) Learning Application, driven by LLM prompting | Bachelor Thesis | Available  |
+| Comparing procedural game mechanisms for self-adaptation to player skill | Bachelor Thesis | Available  |
 
