@@ -9,3 +9,5 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 |~~Prompting a LLM for NLG of a Dialogue System Handling Health-related PROM Questionnaire Answering~~ | Bachelor Thesis | X. W. |
 | Comparing Rare Fact Knowledge in Large Language Models | Bachelor Thesis/(Master Thesis) | |
 | Evaluation of Unsupervised Clustering Method(s) to Classify User Utterances | Bachelor Thesis | |
+| Investigating User Utterances with Zero-/Few-Shot Named-Entity-Recognition | Bachelor Thesis | |
+| Implementation of a Speech Dialogue System with Speech Alignment to User | (Bachelor Thesis)/Master Thesis | |
