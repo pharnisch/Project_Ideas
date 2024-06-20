@@ -12,5 +12,6 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Modeling Survey Answer (Audio) Classification as a Regression Task | Programming, Feature-Engineering, Quantitative Evaluation |Bachelor/Master Thesis  | |
 | Implementation (Prototype) of a Speech Dialogue System with Speech Alignment to User | Programming, Training Data Collection |(Bachelor Thesis)/Master Thesis | |
 | Fine-tuning LLM(s) on Survey Answer Classification | ML Training, Quantitative Evaluation | Bachelor/Master Thesis| |
+| LLM Speech Assistant: Investigating Influence of (User-Aligned) Text Amount on UX | Lab Experiment | Bachelor/Master Thesis | |
 | Evaluation of Unsupervised Clustering Method(s) to Classify User Utterances |  |Bachelor Thesis | |
 | Investigating User Utterances with Zero-/Few-Shot Named-Entity-Recognition |  |Bachelor Thesis | |
