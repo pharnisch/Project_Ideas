@@ -9,7 +9,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 |~~Prompting a LLM for NLG of a Dialogue System Handling Health-related PROM Questionnaire Answering~~ | Prompt-Engineering, Online Survey, Qualitative Analysis |  Bachelor Thesis |X. W. |
 |~~Comparing Rare Fact Knowledge in Language Models and Large Language Models~~ | Programming, Correlation Analysis | Bachelor Thesis|  E. O. |
 |~~Filtering out Falsely Labeled Text Transcriptions by Prompting Large Language Models~~| Eval Dataset Manual Annotation, Programming,  Quantitative Evaluation | Bachelor Thesis | S. G. |
-| Modeling Survey Answer (Audio) Classification as a Regression Task | Programming, Feature-Engineering, Quantitative Evaluation |Bachelor/Master Thesis  | |
+| Task-specific LLM Speech Assistant: Investigating Tradeoffs between LLMs of Different Complexity in Regard to Response Time and Answer Quality | Programming, Feature-Engineering, Quantitative Evaluation |Bachelor Thesis  | |
 | Fine-tuning LLM(s) on Survey Answer Classification | ML Training, Quantitative Evaluation | Bachelor/Master Thesis| |
-|~~LLM Speech Assistant for Medical Questionnaires: Investigating Influence of User-Aligned Speech on Task-Fulfillment and UX~~| Lab Experiment | Bachelor Thesis | I. C. |
+|~~Task-specific LLM Speech Assistant: Investigating Influence of User-Aligned Speech on Task-Fulfillment and UX~~| Lab Experiment | Bachelor Thesis | I. C. |
 
