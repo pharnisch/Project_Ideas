@@ -3,7 +3,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 
 
 ## List of Topics
-| Title/Topic |  Work Focus        | Scope |  Availability |
+| Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
 |~~Enhancing Natural Language Understanding in Healthcare Dialogue Systems: Leveraging Large Language Models for Generating Training Examples~~ |  Programming, Prompt-Engineering, Rasa,  Quantitative Evaluation |  Master Thesis  | Z. H.|
 |~~Prompting a LLM for NLG of a Dialogue System Handling Health-related PROM Questionnaire Answering~~ | Prompt-Engineering, Online Survey, Qualitative Analysis |  Bachelor Thesis |X. W. |
