@@ -8,7 +8,9 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Implementation and Evaluation of SOTA Voice Interface Components for Speech Dialog Systems | Programming, Concept, Literature Study, LLMs |Bachelor Thesis  | |
 | Measuring the Effectiveness of Multimodal User Alignment in Speech Dialog Systems | Lab Experiment, Study Design, Working with Speech Snythesis, LLMs | Bachelor/Master Thesis| |
 | Personality Detection for Alignment in Speech Dialog Systems | Lab Experiment, Study Design, Working with Psychology Surveys (Big Five/MBTI) and Speech Synthesis, LLMs| Master Thesis| |
-
+|  |  | Bachelor Thesis| |
+|  |  | Bachelor Thesis| |
+|  |  | Bachelor Thesis| |
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
