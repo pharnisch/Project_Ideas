@@ -11,6 +11,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking | Prototype Implementation + Lab Study | Any | |
 | Implementation and Evaluation of SOTA Speech Synthesis Options for Prosodic Alignment | Programming | Any | |
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies | Literature Research | Any | |
+| Implementation Real-Time Backchanneling | Literature Research | Any | |
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
