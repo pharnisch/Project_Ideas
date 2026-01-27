@@ -4,6 +4,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 - Multimodal Systems, especially Speech Assistants
 - Augmented Reality
 - Technology for Healthcare or Learning
+- LLMs in Low-Resource Settings
 
 
 ## List of Current Topics
