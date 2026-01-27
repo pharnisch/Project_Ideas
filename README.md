@@ -17,6 +17,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies | Literature Research on Linguistics+Psychology+Software | Any | |
 | LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
 | Research on SOTA: Automatically Evaluating Speech Assistants | Literature Research, Programming | Any ||
+| Building a Multi-Modal Prototype for Image and Audio Analysis for higher Context in Dialog System | Literature Research, Programming, LVM/LLM | Any ||
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
