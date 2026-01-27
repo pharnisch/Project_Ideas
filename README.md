@@ -16,7 +16,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking | Prototype Implementation + Lab Study | Any | |
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies | Literature Research on Linguistics+Psychology+Software | Any | |
 | LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
-
+| Research on SOTA: Automatically Evaluating Speech Assistants | Literature Research, Programming | Any ||
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
