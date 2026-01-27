@@ -7,7 +7,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 - LLMs in Low-Resource Settings
 
 
-## List of Current Topics
+## Topic Ideas
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
 | Implementation of Real-Time Backchanneling in Speech Assistant | Literature Research, Programming | Any | |
@@ -15,6 +15,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Disposable UI/Generative UI: Creating user-adaptive User Interfaces at Runtime | Programming, Lab Study| Any | |
 | Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking | Prototype Implementation + Lab Study | Any | |
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies | Literature Research on Linguistics+Psychology+Software | Any | |
+| LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
 
 
 ## Previous Topics
