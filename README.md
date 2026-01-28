@@ -21,6 +21,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Wizard-of-Oz-Experiments to Assess Effect of Autonomous System Changes on User Experience | Lab Experiments | Any ||
 | User Simulation | ? | Any ||
 | UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Programming, Lab Experiment | Any ||
+| Investigating Variables that Influence the Acceptance (UX and user agency) of Self-Adaptive Systems | Study Design, Lab Study | Any ||
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
