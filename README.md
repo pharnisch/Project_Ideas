@@ -34,5 +34,5 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 |~~Filtering out Falsely Labeled Text Transcriptions by Prompting Large Language Models~~| Eval Dataset Manual Annotation, Programming,  Quantitative Evaluation | Bachelor Thesis | S. G. |
 |~~Task-specific LLM Speech Assistant: Investigating Influence of User-Aligned Speech on Task-Fulfillment and UX~~| Lab Experiment, Study Design | Bachelor Thesis | I. C. |
 | The Impact of Speech Alignment on Interaction Quality with Voice Assistants | Programming, Lab Experiment | Bachelor Thesis | T. N. |
-| Personality Detection for Alignment in Speech Dialog Systems | Lab Experiment, Study Design, Working with Psychology Surveys (Big Five/MBTI) | Bachelor Thesis| |
+| Personality Detection for Alignment in Speech Dialog Systems | Lab Experiment, Study Design, Working with Psychology Surveys (Big Five/MBTI) | Bachelor Thesis| A. W. |
 | Adaptive ASR (and NLU): Utilizing contextual information about user-specific prosody or word usage for higher accuracy | Programming | Master Thesis | X. W. |
