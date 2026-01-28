@@ -13,15 +13,17 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Implementation of Real-Time Backchanneling in Speech Assistant | Literature Research, Programming | Any | |
 | Implementation of Barge-In Functionality in Speech Assistant | Literature Research, Programming | Any | |
 | Disposable UI/Generative UI: Creating user-adaptive User Interfaces at Runtime | Programming, Lab Study| Any | |
-| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking | Prototype Implementation + Lab Study | Any | |
+| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Study | Any | |
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Any | |
 | LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
 | Research on SOTA: Automatically Evaluating Speech Assistants | Literature Research, Programming | Any ||
 | Building a Multi-Modal Prototype for Image and Audio Analysis for higher Context in Dialog System | Literature Research, Programming, LVM/LLM | Any ||
 | Wizard-of-Oz-Experiments to Assess Effect of Autonomous System Changes on User Experience | Lab Experiments | Any ||
-| User Simulation | ? | Any ||
+| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | Literature Research, Programming | Any ||
 | UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Programming, Lab Experiment | Any ||
 | Investigating Variables that Influence the Acceptance (UX and user agency) of Self-Adaptive Systems | Study Design, Lab Study | Any ||
+| Effects of Difficulty Adaption on UX in Video Games | Programming, Study | Any | |
+
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
