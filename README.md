@@ -10,9 +10,8 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 ## Very Interesting for me:
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
-| UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Programming, Lab Experiment | Any ||
-| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | Literature Research, Programming | Any ||
-| Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Bachelor Thesis | |
+| UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Literature Research, Programming, Lab Experiment | Any ||
+| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | **Literature Research**, Programming | Any ||
 | LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
 
 ## More Topic Ideas/Directions
@@ -24,7 +23,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Wizard-of-Oz-Experiments to Assess Effect of Autonomous System Changes on User Experience | Lab Experiments | Any ||
 | Investigating Variables that Influence the Acceptance (UX and user agency) of Self-Adaptive Systems | Study Design, Lab Study | Any ||
 | Effects of Difficulty Adaption on UX in Video Games | Programming, Study | Any | |
-
+| Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Bachelor Thesis | |
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
