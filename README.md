@@ -7,18 +7,21 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 - LLMs in Low-Resource Settings
 
 
-## Topic Ideas
+## Very Interesting for me:
+| Title/Topic |  Work Focus        | Scope |  Student |
+|-------------|---------------|--------------|--------------|
+| UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Programming, Lab Experiment | Any ||
+| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | Literature Research, Programming | Any ||
+| Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Bachelor Thesis | |
+| LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
+
+## More Topic Ideas/Directions
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
 | Implementation of Barge-In Functionality (User interrupting the system) in Speech Assistant | Literature Research, Programming | Any | |
 | Disposable UI/Generative UI: Creating user-adaptive User Interfaces at Runtime | Programming, Lab Study| Any | |
-| Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Any | |
-| LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
-| Research on SOTA: Automatically Evaluating Speech Assistants | Literature Research, Programming | Any ||
 | Building a Multi-Modal Prototype for Image and Audio Analysis for higher Context in Dialog System (e.g. Sentiment, Gesture, ASR improvement) | Literature Research, Programming, LVM/LLM | Any ||
 | Wizard-of-Oz-Experiments to Assess Effect of Autonomous System Changes on User Experience | Lab Experiments | Any ||
-| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | Literature Research, Programming | Any ||
-| UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Programming, Lab Experiment | Any ||
 | Investigating Variables that Influence the Acceptance (UX and user agency) of Self-Adaptive Systems | Study Design, Lab Study | Any ||
 | Effects of Difficulty Adaption on UX in Video Games | Programming, Study | Any | |
 
