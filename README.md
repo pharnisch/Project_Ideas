@@ -10,7 +10,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 ## Topic Ideas
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
-| Implementation of Barge-In Functionality in Speech Assistant | Literature Research, Programming | Any | |
+| Implementation of Barge-In Functionality (User interrupting the system) in Speech Assistant | Literature Research, Programming | Any | |
 | Disposable UI/Generative UI: Creating user-adaptive User Interfaces at Runtime | Programming, Lab Study| Any | |
 | Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Study | Any | |
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Any | |
