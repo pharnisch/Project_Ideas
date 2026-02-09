@@ -39,4 +39,4 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Implementation of Real-Time Backchanneling in Speech Assistant | Literature Research, Programming | Master Thesis | To. N. |
 | Measuring Gender Bias in Polish Language Generation | Literature Study, Programming | Bachelor Thesis | M. C. |
 | Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Study | Bachelor Thesis | A. P. |
-
+| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Study | Bachelor Thesis | J. P. |
