@@ -6,14 +6,6 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 - Technology for Healthcare or Learning
 - LLMs in Low-Resource Settings
 
-
-## Very Interesting for me:
-| Title/Topic |  Work Focus        | Scope |  Student |
-|-------------|---------------|--------------|--------------|
-| UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Literature Research, Programming, Lab Experiment | Any ||
-| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | **Literature Research**, Programming | Any ||
-| LoRA-Adapters (Low-Rank Adaptation) for User-Adaptive LLM Interaction | Programming | Any ||
-
 ## More Topic Ideas/Directions
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
@@ -38,5 +30,10 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Adaptive ASR (and NLU): Utilizing contextual information about user-specific prosody or word usage for higher accuracy | Programming | Master Thesis | X. W. |
 | Implementation of Real-Time Backchanneling in Speech Assistant | Literature Research, Programming | Master Thesis | To. N. |
 | Measuring Gender Bias in Polish Language Generation | Literature Study, Programming | Bachelor Thesis | M. C. |
-| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Study | Bachelor Thesis | A. P. |
-| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Study | Bachelor Thesis | J. P. |
+| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Experiment | Bachelor Thesis | A. P. |
+| Personalized Tandem Speech Assistent for Language Learning: Listening and Speaking, Adapting Difficulty of Exercises to Skill Level | Prototype Implementation + Lab Experiment | Bachelor Thesis | J. P. |
+| Comparison of Technical Implementations for Prosodic Alignment (User Modeling and Speech Synthesis) | Programming, Evaluation  | Bachelor Thesis | M. M. |
+| Disposable UI, Self-adaptive UI und User Modeling | | Master Thesis | S. R. |
+| LoRA-Adapters für nutzeradaptive LLM-Interaktion| Programming, Evaluation | Bachelor Thesis | V. U. |
+| UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Literature Research, Programming, Lab Experiment | Bachelor Thesis | J. L. |
+| Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | **Literature Research**, Programming | Bachelor Thesis | M. S.|
