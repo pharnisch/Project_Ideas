@@ -9,7 +9,6 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 ## More Topic Ideas/Directions
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
-| Implementation of Barge-In Functionality (User interrupting the system) in Speech Assistant | Literature Research, Programming | Any | |
 | Disposable UI/Generative UI: Creating user-adaptive User Interfaces at Runtime | Programming, Lab Study| Any | |
 | Building a Multi-Modal Prototype for Image and Audio Analysis for higher Context in Dialog System (e.g. Sentiment, Gesture, ASR improvement) | Literature Research, Programming, LVM/LLM | Any ||
 | Wizard-of-Oz-Experiments to Assess Effect of Autonomous System Changes on User Experience | Lab Experiments | Any ||
@@ -28,8 +27,8 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Personality Detection for Alignment in Speech Dialog Systems | Lab Experiment, Study Design, Working with Psychology Surveys (Big Five/MBTI) | Bachelor Thesis| A. W. |
 | Adaptive ASR (and NLU): Utilizing contextual information about user-specific prosody or word usage for higher accuracy | Programming | Master Thesis | X. W. |
 | LoRA-Adapters für nutzeradaptive LLM-Interaktion | Programming, Evaluation | Bachelor Thesis | V. U. |
-| Comparison of Technical Implementations for Prosodic Alignment (User Modeling and Speech Synthesis) | Programming, Evaluation  | Bachelor Thesis | M. M. |
-| The Impact of Speech Alignment on Interaction Quality with Voice Assistants | Programming, (Qualitative) Lab Experiment | Bachelor Thesis | Th. N. |
+| Implementation of Barge-In Functionality (User interrupting the system) in Speech Assistant| Programming, Evaluation  | Bachelor Thesis | M. M. |
+| The Impact of Prosodic Speech Alignment on Interaction Quality with Voice Assistants | Programming, (Qualitative) Lab Experiment | Bachelor Thesis | Th. N. |
 | Automatic Evaluation of Speech Dialog Systems, e.g. UX Estimation | **Literature Research**, Programming | Bachelor Thesis | M. S.|
 | UX Graph over Time: Implementing a low-threshold UX assessment by using video and audio data of the user | Literature Research, Programming, Lab Experiment | Bachelor Thesis | J. L. |
 | Effect of Disposable GUI exercises on learning motivation/success in multimodal e-learning speech dialog systems | Programming, (Qualitative) Lab Experiment| Master Thesis | S. R. |
