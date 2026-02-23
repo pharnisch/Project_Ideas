@@ -9,6 +9,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 ## More Topic Ideas/Directions
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
+| LLM Agents with Human Collaboration / LLM Agent Speech Interfaces | Programming| Any | |
 | Disposable UI/Generative UI: Creating user-adaptive User Interfaces at Runtime | Programming, Lab Study| Any | |
 | Building a Multi-Modal Prototype for Image and Audio Analysis for higher Context in Dialog System (e.g. Sentiment, Gesture, ASR improvement) | Literature Research, Programming, LVM/LLM | Any ||
 | Wizard-of-Oz-Experiments to Assess Effect of Autonomous System Changes on User Experience | Lab Experiments | Any ||
