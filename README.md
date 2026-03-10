@@ -16,6 +16,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 | Investigating Variables that Influence the Acceptance (UX and user agency) of Self-Adaptive Systems | Study Design, Lab Study | Any ||
 | Effects of Difficulty Adaption on UX in Video Games | Programming, Study | Any | |
 | Overview of Dialog System Adaptation and Alignment Taxonomies, Theoretical Frameworks and Methodologies. Literature Overview about existing research on Effects of Adaptation and Alignment on People. | Literature Research on Linguistics+Psychology+Software | Bachelor Thesis | |
+| Designing a Website to Visualize Geospatial Wheather Data Using Bias Correction Algorithms and Assuming Shifts in Global Temperature | Mathematical Understanding of Wheather Modeling + Designing and Implementing a Website for Visualization | Bachelor/Master Thesis | |
 
 ## Previous Topics
 | Title/Topic |  Work Focus        | Scope |  Student |
