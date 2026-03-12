@@ -6,7 +6,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 - Technology for Healthcare or Learning
 - LLMs in Low-Resource Settings
 
-## More Topic Ideas/Directions
+## More Topic Ideas/Directions (Available from Wintersemester 2026/2027)
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
 | LLM Agents with Human Collaboration / LLM Agent Speech Interfaces | Programming| Any | |
