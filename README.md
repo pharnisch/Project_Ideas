@@ -1,4 +1,4 @@
-# Bachelor and Master Thesis Topics (this year no supervision possible)
+# Bachelor and Master Thesis Topics (2026 no more supervision possible)
 Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the exact topic can also be discussed and may be adjusted for a smaller or bigger scope. You are also free to suggest your own ideas, especially topics in context to these domains:
 - User Interface that are adapting themselves (automatically) to user specific traits/needs/preferences
 - Multimodal Systems, especially Speech Assistants
