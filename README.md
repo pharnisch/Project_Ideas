@@ -1,4 +1,4 @@
-# Bachelor and Master Thesis Topics
+# Bachelor and Master Thesis Topics (this year no supervision possible)
 Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the exact topic can also be discussed and may be adjusted for a smaller or bigger scope. You are also free to suggest your own ideas, especially topics in context to these domains:
 - User Interface that are adapting themselves (automatically) to user specific traits/needs/preferences
 - Multimodal Systems, especially Speech Assistants
@@ -6,7 +6,7 @@ Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the e
 - Technology for Healthcare or Learning
 - LLMs in Low-Resource Settings
 
-## More Topic Ideas/Directions (Available from Wintersemester 2026/2027)
+## More Topic Ideas/Directions 
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
 | LLM Agents with Human Collaboration / LLM Agent Speech Interfaces | Programming| Any | |
